@@ -1,0 +1,29 @@
+{
+  "name": "sistemadeestoque",
+  "version": "1.0.0",
+  "description": "Uma API que controla um sistema de estoque, cadastrando e gerenciando todos produtos.",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^7.15.0",
+    "koa": "^2.13.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^10.0.0",
+    "nodemon": "^2.0.6",
+    "pg": "^8.5.1",
+    "prettier": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UilsonAlves0/SistemaDeEstoque.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UilsonAlves0/SistemaDeEstoque/issues"
+  },
+  "homepage": "https://github.com/UilsonAlves0/SistemaDeEstoque#readme"
+}
