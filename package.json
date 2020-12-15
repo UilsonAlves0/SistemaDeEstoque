@@ -4,6 +4,7 @@
   "description": "Uma API que controla um sistema de estoque, cadastrando e gerenciando todos produtos.",
   "main": "index.js",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "eslint": "^7.15.0",
     "koa": "^2.13.0",
     "koa-bodyparser": "^4.3.0",
